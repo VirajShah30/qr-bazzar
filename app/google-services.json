@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "316897144879",
+    "firebase_url": "https://virtual-billing-assistant.firebaseio.com",
+    "project_id": "virtual-billing-assistant",
+    "storage_bucket": "virtual-billing-assistant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316897144879:android:b106cf2c8dc3e6b99696da",
+        "android_client_info": {
+          "package_name": "com.example.virtualbilingassistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316897144879-72mjkfm2p7h5jdrjs4c0vngh77nemkqm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.virtualbilingassistant",
+            "certificate_hash": "49232b1660cbf735bbd93e04cb66774ba5987c5b"
+          }
+        },
+        {
+          "client_id": "316897144879-549ns3qt7qsa5ps9m9sfgisagc2ekppt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf8nWuwE4RuPiszxFXCzPObjcqYW0BIc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316897144879-549ns3qt7qsa5ps9m9sfgisagc2ekppt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
